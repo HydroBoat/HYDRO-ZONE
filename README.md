@@ -1,4 +1,6 @@
 # HYDRO-ZONE
-A Pluguin In development
+A Plugin In development
 
 This will also hopefuly add working mobs
+
+Also Missing items/blocks
