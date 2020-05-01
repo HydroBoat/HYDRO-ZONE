@@ -1,1 +1,8 @@
-
+name: HYDRO-ZONE
+main: HydroBoat/Main
+version: 0.0.1
+api: 3.9.0
+load: STARTUP
+author: HydroBoat
+description: A PLUGIN That will add functional blocks/mobs/items into PMMP.
+website: https://tool-craft.mn.co/
